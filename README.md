@@ -1,2 +1,2 @@
-# MC536-
-Banco de Dados
+# Aluno
+* Lucas Jacinto Gonçalves
