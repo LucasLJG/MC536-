@@ -1,3 +1,2 @@
 # Aluno
-* Lucas Jacinto Gonçalves
-* RA 240013
+* 240013: Lucas Jacinto Gonçalves
