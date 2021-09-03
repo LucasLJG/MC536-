@@ -3,4 +3,4 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-[Lab03](images/lab03-nhanes.ipynb)
+[Lab03](notebook/lab03-nhanes.ipynb)
