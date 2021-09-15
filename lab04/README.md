@@ -3,4 +3,4 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-[Lab04](../notebook/lab04-sql-advanced.ipynb)
+[Lab04](notebook/lab04-sql-advanced.ipynb)
