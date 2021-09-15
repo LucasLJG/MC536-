@@ -3,5 +3,4 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`. Seu notebook deve fazer referência à sua pasta data.
->
+[![Lab04](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucasLJG/MC536-.git/HEAD)
