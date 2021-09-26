@@ -12,7 +12,7 @@
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+O estudo das características de uma canção popular de sucesso e não-sucesso é importante para a indústria de streaming como Spotify, Deezer e ITunes, por exemplo. O estudo das features das canções que fizeram sucesso e não-sucesso é fundamental para entender o comportamento da estrutura melódica e a resposta do público brasileiro a essa estrutura dentro da canção. Entender o que faz uma música se tornar um sucesso entre os brasileiros é vital para prever, por exemplo, através de Aprendizado de Máquina, possíveis próximos hits e também promover maior engajamento dos usuários dentro das plataformas de streaming. O estudo das features das canções de sucesso e não-sucesso leva em consideração as seguintes característica da estrutura melódica: Introdução, Verso A/Semi-Refrão, Refrão A, Solo, Verso B/Semi-Refrão, Refrão Final e Arranjo Final. Para essa análise são contabilizados os 90 primeiros segundos das canções e a partir da extração dessas informações musicais é construído três bancos de dados: o primeiro que contém 3215 características (natureza qualitativa e quantitativa), o segundo contém a característica "Melodia Predominante" que representa a voz principal das canções em análise e o terceiro contém a análise semântica musical que foi gerado pelo segundo banco de dados. A partir desses três bancos de dados é possível observar o comportamento das estruras melódicas das canções que fizeram sucesso e as que não fizeram sucesso, além de possibilitar a promoção de pesquisas na área de música/computação utilizando Aprendizado de Máquina.
 
 ## Perguntas de pesquisa/análises
 
