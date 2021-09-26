@@ -19,6 +19,7 @@ O estudo das características de uma canção popular de sucesso e não-sucesso 
 * Qual o tempo médio de duração da Introdução, Verso A/Semi-Refrão e Refrão A das músicas de sucesso com relação as músicas de não-sucesso ?
 * Qual o tempo médio de duração das músicas de sucesso ? E das músicas de não-sucesso ? 
 * Qual a média de frequência (Hz) da melodia predominante das canções de sucesso ? Qual o menor valor de frequência ? E o maior ?
+* Qual a média de frequência (Hz) da melodia predominante das canções de não-sucesso ?
 
 ## Trabalhos relacionados
 
