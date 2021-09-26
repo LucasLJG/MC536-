@@ -5,7 +5,10 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `` |
+| referência | `Título: Três Datasets criados a partir de um banco de Canções Populares Brasileiras de Sucesso e Não-Sucesso de 2014 a 2019
+Autores: André Augusto Bertoni, Rodrigo Pinto Lemos
+Ano de publicação: 2021
+Conferência: SBBD-DSW` |
 | link       | `https://drive.google.com/file/d/1-uZG7J4yafFAHvM7QlZDoWoemMTq3VQB/view` |
 | dataset | `https://github.com/tocaestudio/SBBD-2021.git` |
 | formato | `CSV` |
