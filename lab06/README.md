@@ -16,7 +16,8 @@ O estudo das características de uma canção popular de sucesso e não-sucesso 
 
 ## Perguntas de pesquisa/análises
 
-* Qual a média de duração da Introdução, Verso A/Semi-Refrão e Refrão A das músicas de sucesso com relação as músicas de não-sucesso ?
+* Qual o tempo médio de duração da Introdução, Verso A/Semi-Refrão e Refrão A das músicas de sucesso com relação as músicas de não-sucesso ?
+* Qual o tempo médio de duração das músicas de sucesso ? E das músicas de não-sucesso ? 
 
 ## Trabalhos relacionados
 
