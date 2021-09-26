@@ -20,4 +20,4 @@ O estudo das características de uma canção popular de sucesso e não-sucesso 
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+O Banco de Dados de [Bertin-Mahieux et al. 2011] promove uma coleção de recursos de áudio e metadados disponível gratuitamente para um milhão de faixas de músicas internacionais populares contemporâneas. Outro exemplo é o [Olteanu 2020] que contém cerca de 1000 canções divididas em dez gêneros musicais. Outro Banco é o [Ay 2018] que propõe a extração de cerca de vinte características de 175.000 canções entre os anos de 1921 a 2020.
