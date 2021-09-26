@@ -16,7 +16,7 @@ O estudo das características de uma canção popular de sucesso e não-sucesso 
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+* Qual a média de duração da Introdução, Verso A/Semi-Refrão e Refrão A das músicas de sucesso com relação as músicas de não-sucesso ?
 
 ## Trabalhos relacionados
 
